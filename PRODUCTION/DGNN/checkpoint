@@ -1,0 +1,2 @@
+model_checkpoint_path: "DGNN"
+all_model_checkpoint_paths: "DGNN"
